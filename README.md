@@ -1,2 +1,2 @@
 # genesis
-Repository for the Genesis Desktop Application which was as part of my PhD thesis at Durham University
+Repository for the Genesis Desktop Application which was created as part of my PhD thesis at Durham University
