@@ -2,7 +2,7 @@
 
 ![Genesis Screen copy 2](https://github.com/user-attachments/assets/80653ef2-9446-4f08-86a0-94a8f052930b)
 
-Genesis is the programme I created to support the PhD thesis I completed
+Genesis is the programme created to support the PhD thesis I completed
 at Durham University between 2009-2013.
 
 You can see the full thesis [here](http://etheses.dur.ac.uk/11033/).
