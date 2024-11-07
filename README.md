@@ -10,7 +10,7 @@ It leverages Generative Processes including Genetic Algorithms, Fractals, Symbol
 
 The thesis predates the rapid growth and increased availability of LLMs, so it represents a point in time when Generative AI was founded on 'traditional' algorithmic approaches.
 
-Despite this, the outcome of Genesis supported the notion I presented in my thesis to suggest
+The outcome of Genesis supported the notion I presented in my thesis to suggest
 that:
 > Generative processes are most successful when we partner as 'human
 and machine', creating new and innovative outputs _together_. 
