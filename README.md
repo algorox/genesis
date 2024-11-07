@@ -7,7 +7,7 @@ at Durham University between 2009-2013.
 
 You can see the full thesis [here](http://etheses.dur.ac.uk/11033/).
 
-Put in its rawest from, Genesis provides an exploratory platform through
+Put in its rawest form, Genesis provides an exploratory platform through
 which musical performers and composers can transcend soundscapes through
 generative processes that can be automated or controlled manually.
 
