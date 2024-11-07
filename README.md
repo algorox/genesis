@@ -2,22 +2,28 @@
 
 ![Genesis Screen copy 2](https://github.com/user-attachments/assets/80653ef2-9446-4f08-86a0-94a8f052930b)
 
+## background
 Genesis is the programme created to support the PhD thesis I completed
 at Durham University between 2009-2013.
 
+It leverages Generative Processes including Genetic Algorithms, Fractals, Symbolic AI and Stochasticity to help musicians explore soundscapes in real-time. 
+
+The thesis predates the rapid growth and increased availability of LLMs, so it represents a point in time when Generative AI was founded on 'traditional' algorithmic approaches.
+
+Despite this, the outcome of Genesis supported the notion I presented in my thesis to suggest
+that:
+> Generative processes are most successful when we partner as 'human
+and machine', creating new and innovative outputs _together_. 
+
+A point of view I still hold to this day, LLMs or not...
+
 You can see the full thesis [here](http://etheses.dur.ac.uk/11033/).
 
-Put into its rawest form, Genesis provides an exploratory platform through
-which musical performers and composers can transcend soundscapes through
-generative processes that can be automated or controlled manually.
+I share the code here in the hopes that it brings value to the Generative community.
 
-The outcome of Genesis supported the notion I presented in the thesis to suggest
-that generative processes are most successful when we partner as 'human
-and machine', creating new and innovative outputs together.
-
-To use Genesis, you will need to download
-[SuperCollider](https://supercollider.github.io/), and get an instance
-of it running. Then, simply load the Genesis file from this repo, and you
+## How to
+To use Genesis, you will need to download [SuperCollider](https://supercollider.github.io/), and get an instance
+of it running. Then, simply load the Genesis file from this repo and you
 should be away.
 
 - I expect that you may need to install some classes that do not come as
@@ -33,10 +39,6 @@ should be away.
   [community](https://supercollider.github.io/links) which should also
   be able to help with general SuperCollider questions
 
-I also have a packaged version of the programme which runs on its own
-without any need for SuperCollider installation. Feel free to reach out
-to me on [LinkedIn](https://www.linkedin.com/in/julianwilliam/) and I am
-happy to share.
-
-I hope this brings value to the Generative community.
-
+## Contact me
+Feel free to reach out
+to me on [LinkedIn](https://www.linkedin.com/in/julianwilliam/) if you would like to learn more.
