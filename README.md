@@ -21,7 +21,7 @@ You can see the full thesis [here](http://etheses.dur.ac.uk/11033/).
 
 I share the code here in the hopes that it brings value to the Generative community.
 
-## How to
+## how to
 To use Genesis, you will need to download [SuperCollider](https://supercollider.github.io/), and get an instance
 of it running. Then, simply load the Genesis file from this repo and you
 should be away.
@@ -39,6 +39,6 @@ should be away.
   [community](https://supercollider.github.io/links) which should also
   be able to help with general SuperCollider questions
 
-## Contact me
+## contact me
 Feel free to reach out
 to me on [LinkedIn](https://www.linkedin.com/in/julianwilliam/) if you would like to learn more.
