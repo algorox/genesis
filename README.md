@@ -19,7 +19,7 @@ A point of view I still hold to this day, LLMs or not...
 
 You can see the full thesis [here](http://etheses.dur.ac.uk/11033/).
 
-I share the code here in the hopes that it brings value to the Generative community.
+I share the code here in the hopes that it brings value to the Generative AI community.
 
 ## how to
 To use Genesis, you will need to download [SuperCollider](https://supercollider.github.io/), and get an instance
