@@ -29,7 +29,7 @@ should be away.
 - I expect that you may need to install some classes that do not come as
   part of the standard SuperCollider install
 
-  - If so, SuperCollider provides comprehensive messaging which should
+  - If so, SuperCollider provides comprehensive error messaging which should
     help you identify what's missing
 
   - Use the guide [here](https://supercollider.github.io/sc3-plugins/)
