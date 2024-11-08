@@ -8,7 +8,7 @@ at Durham University between 2009-2013. The key focus is Generative AI and Machi
 
 It leverages Generative Processes including Genetic Algorithms, Fractals, Symbolic AI and Stochasticity to help musicians explore soundscapes in real-time. 
 
-The thesis predates the rapid growth and increased availability of LLMs, so it represents a point in time when Generative AI was founded on 'traditional' algorithmic approaches.
+The thesis predates the rapid growth and increased availability of LLMs, so it represents a point in time when Generative AI was accomplished by 'traditional' algorithmic approaches.
 
 The outcome of Genesis supported the notion I presented in my thesis to propose:
 
