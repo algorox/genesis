@@ -1,4 +1,4 @@
-# genesis
+# genesis: a generative ai musical composition platform
 
 ![Genesis Screen copy 2](https://github.com/user-attachments/assets/80653ef2-9446-4f08-86a0-94a8f052930b)
 
