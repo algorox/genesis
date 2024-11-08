@@ -4,7 +4,7 @@
 
 ## background
 Genesis is a desktop application created to support the PhD thesis in Computer Science and Music I completed
-at Durham University between 2009-2013. The key focus is Generative AI and Machine Creativity in the context of musical performance and composition.
+at Durham University between 2009-2013. The key focus areas are Generative AI and Machine Creativity in the context of musical performance and composition.
 
 It leverages Generative Processes including Genetic Algorithms, Fractals, Symbolic AI and Stochasticity to help musicians explore soundscapes in real-time. 
 
