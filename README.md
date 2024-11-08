@@ -39,6 +39,8 @@ should be away.
   [community](https://supercollider.github.io/links) which should also
   be able to help with general SuperCollider questions
 
+- There are certainly opportunities to optimise and improve the code. I welcome contributors to enhance and evolve Genesis!
+
 ## contact me
 Feel free to reach out
 to me on [LinkedIn](https://www.linkedin.com/in/julianwilliam/) if you would like to learn more.
