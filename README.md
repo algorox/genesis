@@ -3,8 +3,8 @@
 ![Genesis Screen copy 2](https://github.com/user-attachments/assets/80653ef2-9446-4f08-86a0-94a8f052930b)
 
 ## background
-Genesis is the programme created to support the PhD thesis I completed
-at Durham University between 2009-2013.
+Genesis is a desktop application created to support the PhD thesis in Computer Science and Music I completed
+at Durham University between 2009-2013. The key focus is Generative AI and Machine Creativity in the context of musical performance and composition.
 
 It leverages Generative Processes including Genetic Algorithms, Fractals, Symbolic AI and Stochasticity to help musicians explore soundscapes in real-time. 
 
